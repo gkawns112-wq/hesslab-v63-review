@@ -1,0 +1,1 @@
+HessLab Sans V62: a renamed subset of Pretendard Variable, with the original copyright and SIL Open Font License preserved. Only the font name and glyph coverage were changed; variable weights are retained.

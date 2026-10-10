@@ -1,1 +1,27 @@
-HessLab Sans V62: a renamed subset of Pretendard Variable, with the original copyright and SIL Open Font License preserved. Only the font name and glyph coverage were changed; variable weights are retained.
+HessLab v6.6.01: Pretendard Variable SIL OFL 1.1 문자 서브셋. 수정 패밀리 HessLab Sans V6601. 원저작권/라이선스 고지 유지. 한자 6자는 Noto Serif KR SVG 윤곽 사용.
+
+헤스랩 VV1 한자 6개 벡터 출처 기록
+
+파일: on.svg / bo.svg / hoe.svg / hwal.svg / ryeon.svg / cheong.svg
+글자: 溫 / 保 / 回 / 活 / 蓮 / 淸
+출처: C:\Windows\Fonts\NotoSerifKR-VF.ttf
+서체: Noto Serif KR
+서체 버전: Version 2.02;241114204556;non-release
+사용 굵기: variable wght=400
+
+각 글자의 실제 윤곽을 SVG path로 변환했습니다. 설치 폰트 파일은 배포하지 않습니다.
+viewBox 0 0 1000 1000, 보이는 윤곽 기준 가운데 정렬, 가로·세로 중 긴 쪽 800,
+색상 #B35838입니다. 원형 배경·크기·미세 움직임은 사이트 CSS가 담당합니다.
+SVG에는 외부 글꼴 호출이나 text 요소가 없어, 방문자의 한자 폰트 설치 여부에 의존하지 않습니다.
+
+설치 파일 name table의 저작권 메타데이터 (name ID 0):
+© 2017-2023 Adobe (http://www.adobe.com/).
+
+설치 파일 name table의 라이선스 메타데이터 (name ID 13):
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+
+라이선스 참조 주소 메타데이터 (name ID 14):
+http://scripts.sil.org/OFL
+
+제작자·서체명·버전·변형축·개별 SVG 해시 등 상세 기록은 provenance.json을 참고하세요.
+위 문구는 로컬 설치 폰트의 메타데이터 기록입니다. 별도의 권리 조사나 법적 적합성 판정을 의미하지 않습니다.
